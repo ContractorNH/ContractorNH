@@ -11,3 +11,7 @@ Welcome. I build high-impact security infrastructure that auto-detects, remediat
 - Cross-cloud CI/CD Factories
 
 ### Explore All Kits → [opscontractordev.super.site](https://opscontractordev.super.site)
+
+> Want access to the full Terraform deployment code?  
+> Request private access at [your email] or through [your Super site].
+
