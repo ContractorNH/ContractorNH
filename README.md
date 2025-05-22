@@ -1,16 +1,13 @@
-## Hi there 👋
+# The Contractor – Cloud Security Execution
 
-<!--
-**ContractorNH/ContractorNH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Elite Cloud Security | Terraform Automation | Secure by Design. Delivered with Precision.**
 
-Here are some ideas to get you started:
+Welcome. I build high-impact security infrastructure that auto-detects, remediates, and locks down threats—across AWS, Azure & GCP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Live Packages
+- **IAM Hardening Pipeline** – [View Repo](https://github.com/ContractorNH/iam-hardening-pipeline)
+- Security Hub Compliance Kit *(coming soon)*
+- Auto-Remediation Systems
+- Cross-cloud CI/CD Factories
+
+### Explore All Kits → [opscontractordev.super.site](https://opscontractordev.super.site)
