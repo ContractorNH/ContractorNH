@@ -13,5 +13,5 @@ Welcome. I build high-impact security infrastructure that auto-detects, remediat
 ### Explore All Kits → [opscontractordev.super.site](https://opscontractordev.super.site)
 
 > Want access to the full Terraform deployment code?  
-> Request private access at [your email] or through [your Super site].
+> Request private access at hello@opscontractor.dev or through opscontractor.dev
 
